@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe4ec8bb.css",
+    "main.js": "/static/js/main.44023a8d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Livraison.jpg": "/static/media/Livraison.6ca08cc927232b8c2135.jpg",
+    "static/media/akram.png": "/static/media/akram.fdef0b25f5deba494354.png",
+    "static/media/mouaad.png": "/static/media/mouaad.ba5b32a9a8c53462c879.png",
+    "static/media/session_2_3.webp": "/static/media/session_2_3.58b737ed23b3db1bed97.webp",
+    "static/media/header_cover.jpg": "/static/media/header_cover.e49c516e92b81ca90a66.jpg",
+    "static/media/session_2_1.webp": "/static/media/session_2_1.99477cff5b5938274cd2.webp",
+    "static/media/session_2_2.png": "/static/media/session_2_2.c088fb0f33b4a9edc916.png",
+    "static/media/session_1_2.png": "/static/media/session_1_2.dedde2189e6bbae48456.png",
+    "static/media/session_1_3.jpg": "/static/media/session_1_3.7a628eb33b580f07f9ab.jpg",
+    "static/media/session_1_1.webp": "/static/media/session_1_1.1f56746a2cfca1307c0e.webp",
+    "static/media/403.jpg": "/static/media/403.6a607f03797417d731bc.jpg",
+    "index.html": "/index.html",
+    "main.fe4ec8bb.css.map": "/static/css/main.fe4ec8bb.css.map",
+    "main.44023a8d.js.map": "/static/js/main.44023a8d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4ec8bb.css",
+    "static/js/main.44023a8d.js"
+  ]
+}

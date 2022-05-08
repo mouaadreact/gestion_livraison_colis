@@ -1,0 +1,73 @@
+
+.Login{
+  margin-top: 120px;
+}
+
+ 
+.containers{
+  box-shadow: 10px 10px 10px #DDD;
+  padding-top:20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-top: -68px;
+}
+
+/*linear-gradient(to left ,#42a5f5,#e040fb)*/
+
+.account-blockes {
+  padding: 0;
+  background-image: url(../Images/session_2_3.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+  position: relative;
+
+}
+
+.account-block .overlay {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.account-block .account-testimonial {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  margin: 0 auto;
+  padding: 0 1.75rem;
+  bottom: 3rem;
+  left: 0;
+  right: 0;
+}
+
+.text-theme {
+  color: #5369f8 !important;
+}
+
+.btn-theme {
+  background-color: #5369f8;
+  border-color: #5369f8;
+  color: #fff;
+}
+
+.Forget{
+  margin-left: 12px;
+  color:#000 ;
+}
+
+
+/*-------------------------------------------*/
+.Error{
+  color: red;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  text-align: center;
+}

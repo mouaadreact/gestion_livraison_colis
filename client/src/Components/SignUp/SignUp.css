@@ -1,0 +1,80 @@
+.SignUp{
+    margin: 80px 0;
+}
+.containers{
+    box-shadow: 10px 10px 10px #DDD,
+                10px 10px 10px #DDD ;
+    border-radius: 10px;
+}
+.account-blocks {
+    padding: 0;
+    background-image: url(../Images/session_2_3.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+    top:30%;
+    position: relative;
+  }
+  
+  .account-block .overlay {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .account-block .account-testimonial {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0 1.75rem;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+  }
+  
+  .text-theme {
+    color: #5369f8 !important;
+  }
+  
+  .btn-theme {
+    background-color: #5369f8;
+    border-color: #5369f8;
+    color: #fff;
+  }
+  
+  .form-group{
+      margin-top:10px;
+      margin-top: 10px;
+  }
+  .form-group label{
+      margin-bottom: 5px;
+  }
+  .Error{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+  }
+
+  .obligatoire{
+    color:red;
+    font-size: 18px;
+  }
+
+  .Success{
+    color:rgb(70, 214, 147);
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+  }

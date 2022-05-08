@@ -1,0 +1,17 @@
+ .form-control{
+  font-size: 14px;
+}
+.buttonContact{
+    font-size: 14px;
+    background-color: #e83e8c;
+    outline: none;
+    border: none;
+}
+#Empty{
+    color: rgb(255, 255, 255);
+    opacity: 0.92;
+    width: 100%;
+    border-radius: 0px;
+    background-color: #d62525;
+    text-align: center;
+}

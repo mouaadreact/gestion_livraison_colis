@@ -1,0 +1,37 @@
+.Span_command{
+    font-size: 12px;
+    font-family: cursive;
+    color: rgb(232, 62, 140);
+    font-weight: bold;
+    letter-spacing: 1.3px;
+}
+
+.Admin{
+margin: 30px 10px;
+width: 80%;
+text-align: center;
+font-family: cursive;
+font-weight: bold;
+color: rgb(232, 62, 140);
+}
+.p_command{
+    
+    font-family: cursive;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(232, 62, 140);
+}
+.h_command{
+font-family: cursive;
+font-weight: bold;
+color: rgb(232, 62, 140);
+font-size: 14px;
+}
+
+.number_deliv{
+    font-size: 18px;
+    font-family: cursive;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+}
